@@ -19,3 +19,4 @@ Para creación y administración la base de datos se utilicé la siguiente herra
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+> "La única limitación de nuestros logros de mañana serán nuestras dudas de hoy " — Steve Jobs
