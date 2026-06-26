@@ -7,10 +7,9 @@ Este proyecto consiste en el diseño y administración de una Base de Datos rela
 
 ## Características del Proyecto
 
-* **Gestión de Inventario:** Control estricto de existencias (stock) de calzado por modelo, talla y el precio.
-* **Administración de Productos:** Registro de marcas, categorías si este es deportivo, formal, casual.
-* **Control de Ventas:** Registro detallado de las ventas realizadas a los clientes.
-
+* **Gestión de Inventario: Control de existencias de calzado por modelo, talla y precio.
+* **Administración de Productos: Registro de marcas y categorías, como deportivo, formal y casual.
+* **Control de Ventas: Registro organizado de las ventas realizadas a los clientes.
 ---
 
 ## Tecnologías Utilizadas
